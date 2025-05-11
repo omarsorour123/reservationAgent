@@ -11,3 +11,5 @@ wikipedia
 trustcall
 langgraph-cli[inmem]
 langchain-google-genai
+fastapi[standard]
+streamlit
